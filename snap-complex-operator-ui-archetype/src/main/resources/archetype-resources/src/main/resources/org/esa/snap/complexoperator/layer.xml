@@ -1,0 +1,39 @@
+<filesystem>
+
+    <folder name="Actions">
+        <folder name="Operators">
+            <file name="org-esa-snap-operator-gpf-ComplexOperator-Action.instance">
+                <attr name="instanceCreate" methodvalue="org.openide.awt.Actions.alwaysEnabled"/>
+                <attr name="delegate" methodvalue="org.esa.snap.complexoperator.rcp.ComplexOperatorAction.create"/>
+                <attr name="displayName" stringvalue="Complex Operator Processor"/>
+                <attr name="dialogTitle" stringvalue="Complex Operator Processor"/>
+                <attr name="operatorName" stringvalue="ComplexOperator"/>
+                <attr name="targetProductNameSuffix" stringvalue="_sam"/>
+                <attr name="ShortDescription" stringvalue="Complex operator with a custom UI."/>
+                <attr name="helpId" stringvalue="ComplexOperator"/>
+                <attr name="icon" stringvalue="esaIcon"/>
+            </file>
+        </folder>
+    </folder>
+
+    <folder name="Menu">
+        <folder name="Raster">
+            <folder name="Geometric">
+                <attr name="position" intvalue="460"/>
+                <file name="org-esa-snap-operator-gpf-ComplexOperator-Action.shadow">
+                    <attr name="originalFile"
+                          stringvalue="Actions/Operators/org-esa-snap-operator-gpf-ComplexOperator-Action.instance"/>
+                    <attr name="position" intvalue="510"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+
+    <folder name="OperatorUIs">
+        <file name="org.esa.snap.complexoperator.gpf.ui.ComplexOperatorUI">
+            <attr name="operatorUIClass" stringvalue="org.esa.snap.complexoperator.gpf.ui.ComplexOperatorUI"/>
+            <attr name="operatorName" stringvalue="ComplexOperator"/>
+        </file>
+    </folder>
+
+</filesystem>
