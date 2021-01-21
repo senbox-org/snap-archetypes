@@ -63,7 +63,7 @@ If something goes wrong (e.g. wrong details provided when adding an archetype), 
 
     %userdir%\.IdeaIC[version]\system\Maven\Indices\UserArchetypes.xml
 
-This is an XML file that can be easily modified. For deleting a wrong registered archetypes, just delete the corresponding <archetype> element, inside <archetypes> list.
+This is an XML file that can be easily modified. For deleting a wrong registered archetype, just delete the corresponding <archetype> element, inside <archetypes> list.
 
 Enjoy developing!
 
