@@ -57,6 +57,13 @@ From IntelliJ, being positioned on the parent project where a new module will be
 - first register the needed SNAP archetype by Add Archetype button (make sure to write here the details that are in the specific pom.xml of the chosen achetype (found under ${snap-archetypes})
 - select the newly added archetype from the list, as the archetype to be used for the new module
 
+Note
+----
+If something goes wrong (e.g. wrong details provided when adding an archetype), these can be found under:
+
+    %userdir%\.IdeaIC[version]\system\Maven\Indices\UserArchetypes.xml
+
+This is an XML file that can be easily modified. For deleting a wrong registered archetypes, just delete the corresponding <archetype> element, inside <archetypes> list.
 
 Enjoy developing!
 
