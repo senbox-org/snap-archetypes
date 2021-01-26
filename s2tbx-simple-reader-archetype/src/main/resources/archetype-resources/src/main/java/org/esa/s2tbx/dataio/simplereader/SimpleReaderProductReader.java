@@ -36,13 +36,16 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * This reader is an example, inspired from DeimosProductReader
  *
  * This product reader is intended for reading DEIMOS-1 files
  * from compressed archive files, from tar files or from (uncompressed) file system.
  *
- * @author Cosmin Cara
  */
 public class SimpleReaderProductReader extends MultipleMetadataGeoTiffBasedReader<SimpleReaderMetadata> {
 

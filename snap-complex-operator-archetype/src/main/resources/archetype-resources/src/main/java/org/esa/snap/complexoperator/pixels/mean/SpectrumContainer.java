@@ -4,10 +4,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * A container for all the Spectrum objects
- *
- *  @author Razvan Dumitrascu
  */
 public class SpectrumContainer {
 

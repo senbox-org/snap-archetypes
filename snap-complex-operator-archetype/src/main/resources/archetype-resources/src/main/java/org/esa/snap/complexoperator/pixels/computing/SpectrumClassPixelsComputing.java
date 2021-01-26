@@ -11,10 +11,12 @@ import org.locationtech.jts.geom.impl.CoordinateArraySequence;
 import java.awt.Rectangle;
 import java.util.ArrayList;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * For each spectrumInput class computes the location of each pixel from the sourceProduct
- *
- * @author Razvan Dumitrascu
  */
 
 public class SpectrumClassPixelsComputing implements Runnable {

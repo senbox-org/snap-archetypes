@@ -25,9 +25,10 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author Dumitrascu Razvan.
- */
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 public class ComplexOperatorFormModel {
 
     public static final String REFERENCE_BANDS_PROPERTY = "referenceBands";

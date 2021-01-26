@@ -5,10 +5,12 @@ import org.esa.snap.complexoperator.pixels.computing.SpectrumClassReferencePixel
 import org.esa.snap.core.datamodel.Band;
 import org.esa.snap.core.datamodel.Product;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  *  Computes the mean value for each source band for a specific region defined by the user
- *
- * @author Razvan Dumitrascu
  */
 public class SpectrumComputing  implements Runnable{
 

@@ -18,9 +18,9 @@ package org.esa.snap.simpleoperator.rcp;
 
 import org.junit.Test;
 
-/**
- * @author Ralf Quast
- */
+// TODO - Rename this class
+// TODO - Adapt tests
+
 public class SimpleOperatorFormTest {
 
     @Test

@@ -29,11 +29,12 @@ import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Map;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Form for complex example dialog.
- *
- * @author Ralf Quast
- * @version $Revision$ $Date$
  */
 public class ComplexOperatorForm extends JTabbedPane {
 

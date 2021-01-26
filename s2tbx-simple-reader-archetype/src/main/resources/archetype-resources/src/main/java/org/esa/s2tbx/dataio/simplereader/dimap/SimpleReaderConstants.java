@@ -18,10 +18,12 @@ package org.esa.s2tbx.dataio.simplereader.dimap;
 
 import java.io.File;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Holder class for string constants.
- *
- * @author Cosmin Cara
  */
 public class SimpleReaderConstants {
     public static final String METADATA_EXTENSION = ".dim";

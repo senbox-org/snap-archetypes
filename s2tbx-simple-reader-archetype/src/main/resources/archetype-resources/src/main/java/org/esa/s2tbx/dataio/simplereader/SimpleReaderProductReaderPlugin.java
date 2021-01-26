@@ -26,11 +26,14 @@ import org.esa.snap.core.datamodel.RGBImageProfileManager;
 
 import java.util.Locale;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Plugin for reading DEIMOS-1 files.
  * The files are GeoTIFF with DIMAP metadata.
  *
- * @author  Cosmin Cara
  */
 public class SimpleReaderProductReaderPlugin extends BaseProductReaderPlugIn {
     private static final String COLOR_PALETTE_FILE_NAME = "Sample_color_palette.cpd";

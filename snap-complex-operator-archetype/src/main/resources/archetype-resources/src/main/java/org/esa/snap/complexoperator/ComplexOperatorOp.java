@@ -51,10 +51,13 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
+// TODO - Rename this class
+// TODO - Adapt operator metadata
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * This operator is an example.
- *
- * @author Norman Fomferra
  */
 @OperatorMetadata(alias = "ComplexOperator",
         category = "Raster/Geometric",

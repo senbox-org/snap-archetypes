@@ -26,10 +26,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
- * Dom converter for spectra elements
- * @author Oana Hogoiu
- * @since 4/19/2019
+ * Sample - Dom converter for spectra elements
  */
 public class SpectrumInputDomConverter implements DomConverter {
 

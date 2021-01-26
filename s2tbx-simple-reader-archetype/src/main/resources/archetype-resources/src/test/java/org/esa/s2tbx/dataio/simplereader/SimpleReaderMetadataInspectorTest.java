@@ -29,8 +29,12 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assume.assumeTrue;
 
+// TODO - Rename this class
+//// TODO - Adapt variables/methods
+//// TODO - Adapt javadoc
+
 /**
- * Created by jcoravu on 21/1/2020.
+ * Unit test class for reader Metadata Inspector
  */
 public class SimpleReaderMetadataInspectorTest {
 

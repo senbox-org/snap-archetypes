@@ -34,15 +34,19 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assume.assumeTrue;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
- * Unit test class for Deimos Metadata
- * @author Cosmin Cara
+ * Unit test class for reader Metadata
  *
  */
 public class SimpleReaderMetadataTest {
 
     private SimpleReaderMetadata metadata;
-    private String productsFolder = "_deimos" + File.separator;
+    // TODO - Adapt folder name
+    private String productsFolder = "_simplereader" + File.separator;
 
     @Before
     public void setup() {

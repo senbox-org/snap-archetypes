@@ -26,8 +26,10 @@ import org.junit.Test;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-public class SimpleOperatorTest {
+// TODO - Rename this class
+// TODO - Adapt tests
 
+public class SimpleOperatorTest {
 
     @Test
     public void basicTest() {

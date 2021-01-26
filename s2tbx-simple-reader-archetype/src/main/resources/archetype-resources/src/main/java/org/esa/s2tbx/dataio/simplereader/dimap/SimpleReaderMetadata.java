@@ -23,10 +23,12 @@ import java.awt.*;
 
 import static org.esa.snap.utils.DateHelper.parseDate;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Holder for DIMAP metadata file.
- *
- * @author Cosmin Cara
  */
 public class SimpleReaderMetadata extends XmlMetadata {
 

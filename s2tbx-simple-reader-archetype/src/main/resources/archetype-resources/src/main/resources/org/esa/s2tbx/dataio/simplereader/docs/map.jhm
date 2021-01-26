@@ -20,5 +20,7 @@
         "http://java.sun.com/products/javahelp/map_2_0.dtd">
 
 <map version="2.0">
-    <mapID target="simple_reader" url="deimos/SimpleReader.html"/>
+
+    <!-- TODO - Adapt mapID -->
+    <mapID target="simple_reader" url="example/SimpleReader.html"/>
 </map>

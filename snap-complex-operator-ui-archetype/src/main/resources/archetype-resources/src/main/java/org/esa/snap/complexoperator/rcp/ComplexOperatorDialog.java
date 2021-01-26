@@ -29,9 +29,10 @@ import org.esa.snap.ui.AppContext;
 
 import java.util.Map;
 
-/**
- * @author Ralf Quast
- */
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 class ComplexOperatorDialog extends SingleTargetProductDialog {
 
     private static final String DEFAULT_TARGET_PRODUCT_NAME = "complex_operator_target_product";

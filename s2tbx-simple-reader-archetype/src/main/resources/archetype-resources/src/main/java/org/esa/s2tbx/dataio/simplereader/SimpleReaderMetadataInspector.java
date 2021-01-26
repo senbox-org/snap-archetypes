@@ -30,6 +30,10 @@ import org.esa.snap.dataio.geotiff.GeoTiffProductReader;
 import java.io.IOException;
 import java.nio.file.Path;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Sample class.
  */

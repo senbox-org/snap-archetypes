@@ -1,9 +1,11 @@
 package org.esa.snap.complexoperator.pixels.mean;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Contains the mean value for each source band for a specific region defined by the user
- *
- * @author Razvan Dumitrascu
  */
 public class Spectrum {
 

@@ -18,10 +18,11 @@ package org.esa.snap.complexoperator.rcp;
 
 import org.junit.Test;
 
+// TODO - Rename this class
+// TODO - Adapt tests
+
 /**
  * Tests for class {@link org.esa.snap.complexoperator.rcp.ComplexOperatorForm}.
- *
- * @author Ralf Quast
  */
 public class ComplexOperatorFormTest {
 

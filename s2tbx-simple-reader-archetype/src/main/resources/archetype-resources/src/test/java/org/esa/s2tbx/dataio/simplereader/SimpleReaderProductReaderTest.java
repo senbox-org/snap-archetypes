@@ -38,11 +38,16 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assume.assumeTrue;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
- * @author Ramona MANDA
+ * Unit test class for reader
  */
 public class SimpleReaderProductReaderTest {
 
+    // TODO - Adapt folder name
     private static final String PRODUCTS_FOLDER = "_deimos" + File.separator;
 
     @Test

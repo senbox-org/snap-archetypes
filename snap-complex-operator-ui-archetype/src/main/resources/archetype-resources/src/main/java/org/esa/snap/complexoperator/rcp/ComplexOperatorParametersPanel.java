@@ -36,9 +36,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.Callable;
 
-/**
- * @author Dumitrascu Razvan.
- */
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 class ComplexOperatorParametersPanel extends JPanel {
 
     private static final String RESAMPLE_NONE = "None";

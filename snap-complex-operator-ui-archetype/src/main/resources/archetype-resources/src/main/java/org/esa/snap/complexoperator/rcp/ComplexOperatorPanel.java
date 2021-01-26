@@ -26,10 +26,12 @@ import java.awt.*;
 import java.util.Map;
 import java.util.concurrent.Callable;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Core UI class for radiometric indices.
- *
- * @author Adrian Drăghici
  */
 public class ComplexOperatorPanel {
 

@@ -18,6 +18,9 @@ package org.esa.snap.complexoperator;
 
 import org.junit.Test;
 
+// TODO - Rename this class
+// TODO - Adapt tests
+
 public class ComplexOperatorTest {
 
     @Test

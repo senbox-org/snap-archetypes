@@ -52,9 +52,9 @@ import java.util.StringTokenizer;
 import java.util.concurrent.Callable;
 import java.util.logging.Logger;
 
-/**
- * @author Dumitrascu Razvan.
- */
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
 
 class ComplexOperatorSpectrumFormModel {
     private static final Logger logger = Logger.getLogger(ComplexOperatorSpectrumFormModel.class.getName());

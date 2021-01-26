@@ -16,9 +16,12 @@
 
 package org.esa.snap.complexoperator.common;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
- *
- * @author Razvan Dumitrascu
+ * Holder for operator constants
  */
 public class ComplexOperatorConstants {
 

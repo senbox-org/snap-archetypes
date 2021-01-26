@@ -2,11 +2,13 @@ package org.esa.snap.complexoperator.pixels.computing;
 
 import it.unimi.dsi.fastutil.ints.IntArrayList;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Contains all the pixels from a specific region defined by the user. Also the minimum and the maximum
  * values of the bounding box containing the region
- *
- * @author Razvan Dumitrascu
  */
 public class SpectrumClassReferencePixels {
 

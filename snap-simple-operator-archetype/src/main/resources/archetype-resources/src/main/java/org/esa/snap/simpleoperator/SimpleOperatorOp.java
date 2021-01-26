@@ -32,10 +32,12 @@ import org.esa.snap.engine_utilities.gpf.OperatorUtils;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * This operator is an example, inspired from the BandSelectOp and CollocateOp.
- *
- * @author Norman Fomferra [should be replaced accordingly]
  */
 @OperatorMetadata(alias = "SimpleOperator",    // [should be replaced accordingly]
         category = "Raster/Geometric",         // [should be replaced accordingly]

@@ -29,6 +29,9 @@ import org.esa.snap.ui.AppContext;
 import javax.swing.*;
 import java.util.Map;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
 /**
  * This is a sample UI.
  */

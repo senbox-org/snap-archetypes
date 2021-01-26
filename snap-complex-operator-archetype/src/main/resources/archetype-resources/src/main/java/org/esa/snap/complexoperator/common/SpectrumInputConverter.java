@@ -24,6 +24,10 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 public class SpectrumInputConverter implements Converter<SpectrumInput[]> {
 
     private static final String SPECTRUM_INPUTS_SEPARATOR = ":";

@@ -33,10 +33,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- *
- * @author Razvan Dumitrascu
- */
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
 
 public class SpectrumCsvIO {
     public static final SnapFileFilter CSV_FILE_FILTER = new SnapFileFilter("CSV", ".csv", "CSV (plain text)");

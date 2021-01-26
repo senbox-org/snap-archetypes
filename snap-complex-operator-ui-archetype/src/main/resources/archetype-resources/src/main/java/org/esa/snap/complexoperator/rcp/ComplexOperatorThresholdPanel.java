@@ -28,9 +28,9 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Dumitrascu Razvan.
- */
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
 
 public class ComplexOperatorThresholdPanel extends JPanel {
 

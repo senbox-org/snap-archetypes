@@ -30,6 +30,10 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * This is a sample UI.
  */

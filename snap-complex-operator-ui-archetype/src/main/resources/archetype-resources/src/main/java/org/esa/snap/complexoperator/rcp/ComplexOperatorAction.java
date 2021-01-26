@@ -25,11 +25,12 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
  * Geographic example action.
- *
- * @author Ralf Quast
- * @author Marco Peters
  */
 public class ComplexOperatorAction extends AbstractSnapAction {
     private static final Set<String> KNOWN_KEYS = new HashSet<>(Arrays.asList("displayName", "operatorName", "dialogTitle", "helpId", "targetProductNameSuffix"));

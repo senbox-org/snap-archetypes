@@ -18,10 +18,10 @@ package org.esa.snap.complexoperator.common;
 
 import org.esa.snap.core.gpf.annotations.Parameter;
 
-/**
- *
- * @author Razvan Dumitrascu
- */
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 public class SpectrumInput {
     @Parameter(pattern = "[a-zA-Z_0-9]*")
     private String name;

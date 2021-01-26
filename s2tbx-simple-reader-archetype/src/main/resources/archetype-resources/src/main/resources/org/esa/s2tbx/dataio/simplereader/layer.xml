@@ -18,6 +18,7 @@
 
 <filesystem>
 
+    <!-- TODO - Adapt file @name and attr @stringvalue -->
     <folder name="Actions">
         <folder name="Readers">
             <file name="org-esa-s2tbx-dataio-simplereader-ImportDeimosProduct.instance">

@@ -32,12 +32,17 @@ import java.util.*;
 import static org.junit.Assert.*;
 import static org.junit.Assume.assumeTrue;
 
+// TODO - Rename this class
+// TODO - Adapt variables/methods
+// TODO - Adapt javadoc
+
 /**
- * @author Ramona MANDA
+ * Unit test class for reader plugin
  */
 public class SimpleReaderProductReaderPluginTest {
 
     private SimpleReaderProductReaderPlugin plugIn;
+    // TODO - Adapt folder name
     private String productsFolder = "_deimos" + File.separator;
 
     @Before
