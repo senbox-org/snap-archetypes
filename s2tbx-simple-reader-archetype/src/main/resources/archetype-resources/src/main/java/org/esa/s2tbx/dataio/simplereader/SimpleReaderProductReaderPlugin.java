@@ -1,6 +1,5 @@
 /*
- * Copyright (C) 2014-2015 CS-SI (foss-contact@thor.si.c-s.fr)
- * Copyright (C) 2014-2015 CS-Romania (office@c-s.ro)
+ * Copyright (C) 2021 by ?
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the Free
@@ -34,10 +33,10 @@ import java.util.Locale;
  * @author  Cosmin Cara
  */
 public class SimpleReaderProductReaderPlugin extends BaseProductReaderPlugIn {
-    private static final String COLOR_PALETTE_FILE_NAME = "Deimos_color_palette.cpd";
+    private static final String COLOR_PALETTE_FILE_NAME = "Sample_color_palette.cpd";
 
     public SimpleReaderProductReaderPlugin() {
-        super("org/esa/s2tbx/dataio/deimos/" + SimpleReaderProductReaderPlugin.COLOR_PALETTE_FILE_NAME);
+        super("org/esa/s2tbx/dataio/simplereader/" + SimpleReaderProductReaderPlugin.COLOR_PALETTE_FILE_NAME);
     }
 
     @Override

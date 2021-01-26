@@ -1,6 +1,5 @@
 /*
- * Copyright (C) 2014-2015 CS-SI (foss-contact@thor.si.c-s.fr)
- * Copyright (C) 2014-2015 CS-Romania (office@c-s.ro)
+ * Copyright (C) 2021 by ?
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the Free
