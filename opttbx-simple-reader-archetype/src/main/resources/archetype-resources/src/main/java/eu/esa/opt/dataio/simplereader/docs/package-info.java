@@ -14,7 +14,7 @@
  * with this program; if not, see http://www.gnu.org/licenses/
  */
 
-@HelpSetRegistration(helpSet = "help.hs", position = 4130)
-package org.esa.snap.complexoperator.docs;
+@HelpSetRegistration(helpSet = "help.hs", position = 4997)
+package eu.esa.opt.dataio.simplereader.docs;
 
 import eu.esa.snap.netbeans.javahelp.api.HelpSetRegistration;

@@ -16,6 +16,6 @@
         <module>snap-simple-operator-ui-archetype</module>
         <module>snap-complex-operator-archetype</module>
         <module>snap-complex-operator-ui-archetype</module>
-        <module>s2tbx-simple-reader-archetype</module>
+        <module>opttbx-simple-reader-archetype</module>
     </modules>
 </project>

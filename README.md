@@ -16,7 +16,7 @@ More information can be found in the [Developer Guide](https://senbox.atlassian.
 
 Download and install the required build tools
 
-* Install Java 8 JDK and set JAVA_HOME accordingly. A distribution of OpenJDK is suggested. 
+* Install Java 11 JDK and set JAVA_HOME accordingly. A distribution of OpenJDK is suggested. 
 Several distributions are available, for example
   * [Azul Zulu](https://www.azul.com/downloads/zulu-community)  
   * [AdoptOpenJDK](https://adoptopenjdk.net)   
